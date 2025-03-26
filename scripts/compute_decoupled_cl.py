@@ -56,4 +56,4 @@ def compute_decoupled_cl( maps: np.ndarray, masks:np.ndarray, X:bool, nsides:int
             if i != j:
                 cldec[:, j, i] = cldec[:, i, j]
                 p_cl[:, j, i] = p_cl[:, i, j]
-    return p_cl, matrix, cldec
+    return cldec
