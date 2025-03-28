@@ -1,7 +1,7 @@
 import numpy as np
 import pymaster as nmt
 
-def compute_decoupled_cl( maps: np.ndarray, masks:np.ndarray, X:bool, nsides:int, l_max:int, n_freq:int)-> tuple[np.ndarray, np.ndarray, np.ndarray]:
+def compute_decoupled_cl( maps: np.ndarray, masks:np.ndarray, X:bool, nsides:int, l_max:int, n_freq:int)-> np.ndarray:
     """
     Compute the power spectra using NaMaster for a set of frequency maps.
 
