@@ -1,0 +1,9 @@
+extra/cmb_seed.ipynb
+scripts/__pycache__/apply_HILC.cpython-310.pyc
+scripts/__pycache__/compute_decoupled_cl_2.cpython-310.pyc
+scripts/__pycache__/compute_decoupled_cl.cpython-310.pyc
+scripts/__pycache__/cosine_smoothed_mask.cpython-310.pyc
+scripts/__pycache__/gen_sims.cpython-310.pyc
+scripts/__pycache__/mask_maps.cpython-310.pyc
+scripts/__pycache__/simulate_planck_maps.cpython-310.pyc
+scripts/__pycache__/true_cmb.cpython-310.pyc
